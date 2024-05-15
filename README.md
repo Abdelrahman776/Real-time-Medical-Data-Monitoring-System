@@ -15,7 +15,8 @@ This system is designed to simulate the communication between a medical device (
 
 ### 3. GUI (Data Visualization)
 - `gui.py`: Provides a user-friendly GUI to search for patient vital sign data stored in Redis, and visualize it using matplotlib.
-
+## Flow Diagram
+![alt text](<flow diagram.jpg>)
 ## Setup
 1. Install Python (if not already installed) from [python.org](https://www.python.org/downloads/).
 2. Install required Python libraries using pip:
@@ -32,5 +33,5 @@ This system is designed to simulate the communication between a medical device (
 ## Notes
 - Ensure Redis is running before starting the server and GUI application.
 - Adjust the host and port configurations in the code files if necessary.
-
+## Result
 ![alt text](MedicalDataMonitoringSystem-1.gif)
