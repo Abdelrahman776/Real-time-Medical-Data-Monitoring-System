@@ -33,4 +33,4 @@ This system is designed to simulate the communication between a medical device (
 - Ensure Redis is running before starting the server and GUI application.
 - Adjust the host and port configurations in the code files if necessary.
 
-<video controls src="Medical Data Monitoring System 2024-05-15 12-35-24.mp4" title="Title"></video>
+![alt text](MedicalDataMonitoringSystem-1.gif)
