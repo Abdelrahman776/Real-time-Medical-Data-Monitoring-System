@@ -1,5 +1,6 @@
 # Real-time Medical Data Monitoring System
 
+![alt text](MedicalDataMonitoringSystem-1.gif)
 ## Introduction
 This system is designed to simulate the communication between a medical device (client) and a server application, storing and visualizing vital sign data in real-time. The system comprises three main components: 
 1. **Client (Medical Device Simulator)**: Simulates a medical device generating vital sign data and sending it to the server.
@@ -33,5 +34,4 @@ This system is designed to simulate the communication between a medical device (
 ## Notes
 - Ensure Redis is running before starting the server and GUI application.
 - Adjust the host and port configurations in the code files if necessary.
-## Result
-![alt text](MedicalDataMonitoringSystem-1.gif)
+
